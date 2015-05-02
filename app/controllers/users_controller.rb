@@ -74,7 +74,6 @@ class UsersController < ApplicationController
         :phone,
         :skype,
         :email
-
       )
     end
 end
